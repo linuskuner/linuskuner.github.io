@@ -1,0 +1,184 @@
+
+/*++++++Header+++++++*/
+
+.projects_head {
+  color: white;
+  transition: opacity cubic-bezier(.17,.67,.63,.39) .2s;
+  font-size: 18px;
+  font-weight: 400;
+  opacity: .5;
+}
+
+.projects_head:hover {
+  opacity: 1;
+  color: white
+}
+
+.h1_year {
+  font-weight: 400;
+  opacity: .5;
+  font-size: 25px;
+  line-height: .7;
+  margin-bottom: 50px;
+}
+
+
+.case_head {
+  padding-top: 100px;
+}
+
+.case_head_detail {
+  font-size: 17px;
+}
+
+
+.case_descr {
+padding-right: 30px;
+}
+
+.case_descr p {
+  font-size: 18px;
+}
+
+.details_wrapper {
+  padding-top: 10px;
+}
+
+
+.case_head_header {
+  padding-top: 50px;
+  margin-bottom: 100px;
+}
+
+
+/*++++++Images+++++++*/
+
+
+.case_img, .showcase-image {
+  transition: all cubic-bezier(.17,.67,.63,.39) .2s;
+}
+
+.showcase-image:hover {
+  transform: scale(1.007);
+}
+
+.showcase-link{
+  opacity: 1!important;
+}
+
+.case_img:hover {
+  transform: scale(1.007);
+}
+
+.case_img {
+box-shadow: none;
+}
+
+.case_grid {
+  padding: 5%;
+}
+
+/*++++++Bottom Nav+++++++*/
+
+.bottom_nav {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.bottom_nav_item_left, .bottom_nav_item_right {
+  transition: transform ease .2s;
+}
+
+.bottom_nav_item_left a, .bottom_nav_item_right a {
+  font-size: 25px;
+  opacity: 1;
+}
+
+.bottom_nav_item_left span, .bottom_nav_item_right span {
+  margin: 20px;
+}
+
+.bottom_nav_item_left:hover {
+  transform: translateX(-10px);
+}
+
+.bottom_nav_item_right:hover {
+  transform: translateX(10px);
+}
+
+
+@media only screen and (max-width: 640px) {
+
+  /*++++++Header+++++++*/
+
+
+  .h1_year {
+    font-size: 22px;
+  }
+
+  .case_head {
+    padding-top: 50px;
+    padding: 30px;
+  }
+
+
+  .details_wrapper {
+    padding-top: 50px;
+  }
+
+
+  .case_head_header {
+    padding-top: 0px;
+    margin-bottom: 40px;
+  }
+
+  /*++++++Images+++++++*/
+
+
+  .case_grid {
+    padding: 20px;
+  }
+
+
+
+  /*++++++Bottom Nav+++++++*/
+
+  .bottom_nav {
+    margin-bottom: 20px;
+    opacity: .5;
+  }
+
+  .bottom_nav_item_left {
+    text-align: left;
+    padding-left: 30px;
+  }
+
+  .bottom_nav_item_right {
+    text-align: right;
+    padding-right: 30px;
+  }
+
+
+
+  .bottom_nav_item_left a, .bottom_nav_item_right a {
+    font-size: 16px;
+    opacity: 1;
+  }
+
+  .bottom_nav_item_left span, .bottom_nav_item_right span {
+    margin: 5px;
+  }
+
+  .bottom_nav_item_left:hover {
+    transform: translateX(-10px);
+  }
+
+  .bottom_nav_item_right:hover {
+    transform: translateX(10px);
+  }
+
+
+  @media only screen and (max-width: 500px) {
+
+
+}

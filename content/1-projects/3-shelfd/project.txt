@@ -1,0 +1,33 @@
+Title: Shelfd
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+----
+
+Type: 2017 / Interface Design
+
+----
+
+Rolle: Designlead
+
+----
+
+Auftraggeber: Arthur Avenue
+
+----
+
+Text-left: 
+
+I’m Linus, a Berlin based student and designer, focused on creating digital products for humans. 
+For now, I’m studying communication design at HTW Berlin and working for Überdosis, a Berlin based digital design studio.
+Over the past years I’ve not been only pushing pixels, I've been pushing myself to create structured and immersive interfaces that are fun to use and look at.
+
+----
+
+Text-right: 

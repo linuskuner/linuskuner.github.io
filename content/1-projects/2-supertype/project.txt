@@ -1,0 +1,32 @@
+Title: Supertype
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+----
+
+Type: 2017 / Interface Design
+
+----
+
+Rolle: Design Lead
+
+----
+
+Auftraggeber: Supertype
+
+----
+
+Text-left: 
+
+Supertype is a Berlin based type foundry, founded by Martin Wenzel, Jürgen Huber and Malte Gerok. On their behalf, I designed at Überdosis not only a completely new web experience, but also the implementation of its own shop for the sale of their self-designed retail fonts.
+For me it was particularly interesting to investigate the needs of testing fonts directly in the browser. The design therefore depends on an appealing and accurate presentation, which leaves the type design its space.
+
+----
+
+Text-right: 

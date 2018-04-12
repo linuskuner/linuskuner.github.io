@@ -1,0 +1,42 @@
+title: Project
+
+options:
+  preview: true
+  template: true
+  url: true
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+
+  type:
+    label: Year / Type
+    type:  text
+    width: 3/4
+
+  rolle:
+    label: Rolle
+    type:  text
+    width: 3/4
+
+  auftraggeber:
+    label: Auftraggeber
+    type:  text
+    width: 3/4
+
+  text_left:
+    label: Text
+    type:  textarea
+    width: 1/2
+
+  text_right:
+    label: Text
+    type:  textarea
+    width: 1/2

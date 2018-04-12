@@ -1,0 +1,32 @@
+Title: Geohorse
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+----
+
+Type: 2017 / Interface Design
+
+----
+
+Rolle: Design Lead
+
+----
+
+Auftraggeber: Libify Tech.
+
+----
+
+Text-left: 
+
+Geohorse is an app that lets you track your horse rides, localises your connected horse and works with two hardware components by Libify as some sort of an digital leash, which in the case of an emergency calls for help when rider and horse are separated.
+As one of my first projects at Überdosis, I had to create the structure and the design for the app from scratch. It was interesting to identify all the special needs in terms of contrasts and the position of elements, for an app that is mostly used in bright sunlight and shaky conditions on a horseback.
+
+----
+
+Text-right: 
